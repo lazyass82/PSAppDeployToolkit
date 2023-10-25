@@ -1,0 +1,9 @@
+{
+    "terminal.integrated.defaultProfile.windows": "Windows PowerShell",
+    "files.exclude": {
+        "**/.pdf": true,
+        "**/.exe": true,
+        "**/.msi": true,
+        "**/.txt": true
+    }
+}
